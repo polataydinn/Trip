@@ -1,9 +1,4 @@
-/*
-* @Yazar
-        * Öğrenci adı: Sena Seda Gök
-        * Öğrenci Kimliği : 170504032
-* Tarih: 21.01.2021
-*/
+
 #ifndef UNTITLED_CRUISE_H
 #define UNTITLED_CRUISE_H
 
