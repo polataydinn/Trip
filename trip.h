@@ -1,9 +1,4 @@
-/*
-* @Yazar
-        * Öğrenci adı: Sena Seda Gök
-        * Öğrenci Kimliği : 170504032
-* Tarih: 21.01.2021
-*/
+
 #include "flight.h"
 #ifndef UNTITLED_TRIP_H
 #define UNTITLED_TRIP_H
